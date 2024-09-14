@@ -6,7 +6,7 @@ A **Full Stack Developer**  and an advocate for building **responsive** and **ac
 - You can reach me through: <a href="mailto:daniela.odhiambo23@gmail.com" title="Gmail"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://www.linkedin.com/in/daniela-odhiambo-062437252"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
 
 ## <img src="https://github.com/user-attachments/assets/952adede-09d0-4365-b2d3-20fafa0a40a1" alt="Person confused" width="70" height="70" /> **Languages**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,expressjs,nodejs,mongodb,mysql,git,github,vscode,visualstudio,postman,python,c#,java,figma,stackoverflow&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,expressjs,nodejs,figma,java,mongodb,mysql,git,github,vscode,visualstudio,postman,python,stackoverflow,c#&perline=13)](#)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
