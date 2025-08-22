@@ -1,7 +1,7 @@
 # Hi... I'm Daniela  <img src="https://github.com/user-attachments/assets/4860c841-8af0-4300-b9c0-c5de8a56f8c0" width="50" />
 A **Full Stack Developer**  and an advocate for building **responsive** and **accessible** digital solutions. Based in Nairobi, Kenya
 
-- 🌱 I’m currently learning C#...
+- 🌱 I’m currently learning Django...
 - 🙃 Willling to collaborate on projects
 - You can reach me through: <a href="mailto:daniela.odhiambo23@gmail.com" title="Gmail"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://www.linkedin.com/in/daniela-odhiambo-062437252"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
 
