@@ -86,7 +86,6 @@ const daniela = {
 | 📱 Responsive | Works beautifully across all screens and devices |
 
 ---
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -94,8 +93,12 @@ const daniela = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielaOdhis&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ec4899&text_color=ffffff&langs_count=8" width="47%" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=DanielaOdhis&hide_border=true&background=0d0d0d&stroke=7c3aed&ring=ec4899&fire=fbbf24&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ec4899&sideLabels=7c3aed&dates=6b7280" width="60%" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=DanielaOdhis&hide_border=true&background=0D0D0D&stroke=7C3AED&ring=EC4899&fire=FBBF24&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EC4899&sideLabels=7C3AED&dates=6B7280&cache_seconds=86400)](https://git.io/streak-stats)
+
 </div>
 
 <div align="center">
