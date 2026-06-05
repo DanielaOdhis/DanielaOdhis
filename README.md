@@ -94,11 +94,9 @@ const daniela = {
 </div>
 <br>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=DanielaOdhis&hide_border=true&background=0D0D0D&stroke=7C3AED&ring=EC4899&fire=FBBF24&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EC4899&sideLabels=7C3AED&dates=6B7280&cache_seconds=86400)](https://git.io/streak-stats)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DanielaOdhis&theme=dark&hide_border=true&background=0D0D0D&stroke=7C3AED&ring=EC4899&fire=FBBF24&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EC4899&sideLabels=7C3AED&dates=6B7280" />
+</p>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielaOdhis&bg_color=0d0d0d&color=ec4899&line=7c3aed&point=fbbf24&area=true&area_color=7c3aed&hide_border=true" width="96%" />
