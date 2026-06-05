@@ -90,7 +90,7 @@ const daniela = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DanielaOdhis&show_icons=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=ec4899&icon_color=7c3aed&text_color=ffffff" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielaOdhis&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ec4899&text_color=ffffff&langs_count=8" width="47%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/api/top-langs/?username=DanielaOdhis&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ec4899&text_color=ffffff&langs_count=8" width="47%" />
 </div>
 
 <br>
