@@ -90,24 +90,10 @@ const daniela = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielaOdhis&bg_color=0d0d0d&color=ec4899&line=7c3aed&point=fbbf24&area=true&hide_border=true" />
 </p>
 
----
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DanielaOdhis&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ### 💬 Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ec4899,50:7c3aed,100:0d0d0d&height=120&section=footer" />
-</div>
