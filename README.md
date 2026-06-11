@@ -75,7 +75,6 @@ const daniela = {
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-
 ### 🔥 Streak Stats
 
 <p align="center">
