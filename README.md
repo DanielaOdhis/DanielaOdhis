@@ -30,7 +30,7 @@
 
 ```js
 const daniela = {
-  role: ["Full Stack Developer", "Trader", "CEO @ Volatex"],
+  role: ["Full Stack Developer", "Trader", "CEO @ BountyDbot"],
   location: "Nairobi, Kenya 🇰🇪",
   expertise: ["Web Apps", "Trading Systems", "UI/UX", "APIs"],
   openTo: "Collaborations & exciting builds",
@@ -65,9 +65,9 @@ const daniela = {
 
 ---
 
-### 💹 Volatex — Binary Trading Platform
+### 💹 BountyDbot — Binary Trading Platform
 
-> **https://volatex.site** — A trading platform built for real execution systems.
+> **https://bountydbot.site** — A trading platform built for real execution systems.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Deriv%20API-FF0000?style=for-the-badge" />
