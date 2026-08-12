@@ -5,12 +5,12 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=3500&pause=800&color=EC4899&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Binary+%26+Forex+Trader;CEO+%40+Volatex.site;Building+from+Nairobi+%F0%9F%87%B0%F0%9F%87%AA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=3500&pause=800&color=EC4899&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Binary+%26+Forex+Trader;CEO+%40+BountyDBot.site;Building+from+Nairobi+%F0%9F%87%B0%F0%9F%87%AA" />
 </p>
 
 <p align="center">
-  <a href="https://volatex.site">
-    <img src="https://img.shields.io/badge/-volatex.site-0d0d0d?style=for-the-badge&logo=google-chrome&logoColor=ec4899" />
+  <a href="https://bountydbot.site">
+    <img src="https://img.shields.io/badge/-bountydbot.site-0d0d0d?style=for-the-badge&logo=google-chrome&logoColor=ec4899" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/daniela-odhiambo-062437252">
