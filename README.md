@@ -26,7 +26,7 @@
 
 ---
 
-### 👩‍💻 Who am I..
+### 👩‍💻 Who am I?
 
 ```js
 const daniela = {
